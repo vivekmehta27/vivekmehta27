@@ -1,8 +1,8 @@
 awards: true
 courses: true
 experiences: true
-group_projects: true
-individual_projects: true
+group_projects: false
+individual_projects: false
 interests: true
 languages: true
 profiles: true
