@@ -15,8 +15,8 @@ ga_cv: UA-XXXXXXXX-X
 name: Vivek Mehta
 tagline: Research Scholar in Computer Science 
 pic: Vivek_.jpg # profile.png can be found at /assets/images/profile.png
-description: Full Stack
-description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
+description: 
+description_tiny: 
 email: vivekmehta27@gmail.com
 website: vivekmehta27.github.io # do not add http://
 linkedin: vivek-mehta27
